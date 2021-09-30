@@ -88,4 +88,13 @@
         "meltingPoint_inDegreeCelsius": "169.6",
         "bolingPoint_inDegreeCelsius": "210"
     }
+    
+    {
+      "id": 11,
+        "name": "Magnesium Dioxide",
+        "molecular formula": "MgO2",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "2852",
+        "bolingPoint_inDegreeCelsius": "3600"
+    }
 ]
