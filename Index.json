@@ -87,14 +87,26 @@
         "colour": "white",
         "meltingPoint_inDegreeCelsius": "169.6",
         "bolingPoint_inDegreeCelsius": "210"
-    }
-]
-
+    },
     {
         "id": 11,
+        "name": "oxygen",
+        "molecular formula": "O2",
+        "colour": "gas",
+        "meltingPoint_inDegreeCelsius": "169.6",
+        "bolingPoint_inDegreeCelsius": "210"
+    },
+
+
+
+    {
+        "id": 12,
         "name": "Potassium Nitrate",
         "molecular formula": "KNO3",
         "colour": "White",
         "meltingPoint_inDegreeCelsius": "334",
         "bolingPoint_inDegreeCelsius": "400"
-    }    
+    }
+]
+
+
