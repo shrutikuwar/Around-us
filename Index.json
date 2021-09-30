@@ -87,5 +87,15 @@
         "colour": "white",
         "meltingPoint_inDegreeCelsius": "169.6",
         "bolingPoint_inDegreeCelsius": "210"
+    },
+    
+    {    
+        "id": 11, 
+        "name" : "Chloroform",
+        "molecular fornula": "CHCL3",
+        "colour": "colourless",
+        "meltingpoini_inDegreeCelsius": "-63.5",
+        "bolingPoint_inDegreeCelsius": "61.2"
     }
+]
 ]
