@@ -90,11 +90,122 @@
     }
     
     { 
-        "id": 11,
+        "id": 15,
         "name": "sodium hypochlorite",
         "molecular formula": "NaOCl",
         "colour": "greenish to yellow",
         "meltingPoint_inDegreeCelsius": "18",
         "bolingPoint_inDegreeCelsius": "101"
+    },
+
+    {
+        "id": 1,
+        "name": "Sodium Chloride",
+        "molecular formula": "Nacl",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "801",
+        "bolingPoint_inDegreeCelsius": "1413"
+    },
+
+    {
+        "id": 2,
+        "name": "Sulfuric acid",
+        "molecular formula": "H2SO4",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "10",
+        "bolingPoint_inDegreeCelsius": "337"
+    },
+
+    {
+        "id": 3,
+        "name": "Water",
+        "molecular formula": "H2O",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "0",
+        "bolingPoint_inDegreeCelsius": "100"
+    },
+
+    {
+        "id": 4,
+        "name": "Hydrochloric acid",
+        "molecular formula": "HCL",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "-74",
+        "bolingPoint_inDegreeCelsius": "-85.05"
+    },
+
+    {
+        "id": 5,
+        "name": "Bicarbonate",
+        "molecular formula": "HCO3-",
+        "colour": "red",
+        "meltingPoint_inDegreeCelsius": "50",
+        "bolingPoint_inDegreeCelsius": "851"
+    },
+
+    {
+        "id": 6,
+        "name": "Ammonium Chloride",
+        "molecular formula": "NH4Cl",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "338",
+        "bolingPoint_inDegreeCelsius": "520"
+    },
+
+    {
+        "id": 7,
+        "name": "Sodium Hydroxide",
+        "molecular formula": "NAOH",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "318",
+        "bolingPoint_inDegreeCelsius": "1388"
+    },
+
+    {
+        "id": 8,
+        "name": "Nitric acid",
+        "molecular formula": "HHNO3",
+        "colour": "pale yellow",
+        "meltingPoint_inDegreeCelsius": "-42",
+        "bolingPoint_inDegreeCelsius": "83"
+    },
+
+    {
+        "id":9,
+        "name": "Potassium chloride",
+        "molecular formula": "KCL",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "770",
+        "bolingPoint_inDegreeCelsius": "1420"
+    },
+
+    {
+        "id": 10,
+        "name": "Ammonium Nitrate",
+        "molecular formula": "NH4NO3",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "169.6",
+        "bolingPoint_inDegreeCelsius": "210"
+    },
+    {
+        "id": 11,
+        "name": "oxygen",
+        "molecular formula": "O2",
+        "colour": "gas",
+        "meltingPoint_inDegreeCelsius": "169.6",
+        "bolingPoint_inDegreeCelsius": "210"
+    },
+
+
+
+    {
+        "id": 12,
+        "name": "Potassium Nitrate",
+        "molecular formula": "KNO3",
+        "colour": "White",
+        "meltingPoint_inDegreeCelsius": "334",
+        "bolingPoint_inDegreeCelsius": "400"
     }
 ]
+
+
