@@ -207,5 +207,12 @@
         "bolingPoint_inDegreeCelsius": "400"
     }
 ]
-
+{
+        "id":13,
+        "name": "Calcium carbonate",
+        "molecular formula": "caco3",
+        "colour": "white",
+        "meltingPoint_inDegreeCelsius": "825 ",
+        "bolingPoint_inDegreeCelsius": "825 "
+    }
 
