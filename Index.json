@@ -93,7 +93,7 @@
     }
     
     {
-      "id": 16,
+      "id": 11,
         "name": "Magnesium Dioxide",
         "molecular formula": "MgO2",
         "colour": "white",
@@ -102,7 +102,7 @@
     },
 
     {
-        "id": 1,
+        "id": 12,
         "name": "Sodium Chloride",
         "molecular formula": "Nacl",
         "colour": "colourless",
@@ -111,7 +111,7 @@
     },
 
     {
-        "id": 2,
+        "id": 13,
         "name": "Sulfuric acid",
         "molecular formula": "H2SO4",
         "colour": "colourless",
@@ -120,7 +120,7 @@
     },
 
     {
-        "id": 3,
+        "id": 14,
         "name": "Water",
         "molecular formula": "H2O",
         "colour": "colourless",
@@ -129,7 +129,7 @@
     },
 
     {
-        "id": 4,
+        "id": 15,
         "name": "Hydrochloric acid",
         "molecular formula": "HCL",
         "colour": "colourless",
@@ -138,7 +138,7 @@
     },
 
     {
-        "id": 5,
+        "id": 16,
         "name": "Bicarbonate",
         "molecular formula": "HCO3-",
         "colour": "red",
@@ -147,7 +147,7 @@
     },
 
     {
-        "id": 6,
+        "id": 17,
         "name": "Ammonium Chloride",
         "molecular formula": "NH4Cl",
         "colour": "white",
@@ -156,7 +156,7 @@
     },
 
     {
-        "id": 7,
+        "id": 18,
         "name": "Sodium Hydroxide",
         "molecular formula": "NAOH",
         "colour": "white",
@@ -165,7 +165,7 @@
     },
 
     {
-        "id": 8,
+        "id": 19,
         "name": "Nitric acid",
         "molecular formula": "HHNO3",
         "colour": "pale yellow",
@@ -174,7 +174,7 @@
     },
 
     {
-        "id":9,
+        "id":20,
         "name": "Potassium chloride",
         "molecular formula": "KCL",
         "colour": "white",
@@ -183,7 +183,7 @@
     },
 
     {
-        "id": 10,
+        "id": 21,
         "name": "Ammonium Nitrate",
         "molecular formula": "NH4NO3",
         "colour": "white",
@@ -192,7 +192,7 @@
     },
     
     { 
-        "id": 15,
+        "id": 22,
         "name": "sodium hypochlorite",
         "molecular formula": "NaOCl",
         "colour": "greenish to yellow",
@@ -201,7 +201,7 @@
     },
 
     {
-        "id": 1,
+        "id": 23,
         "name": "Sodium Chloride",
         "molecular formula": "Nacl",
         "colour": "colourless",
@@ -210,7 +210,7 @@
     },
 
     {
-        "id": 2,
+        "id": 24,
         "name": "Sulfuric acid",
         "molecular formula": "H2SO4",
         "colour": "colourless",
@@ -219,7 +219,7 @@
     },
 
     {
-        "id": 3,
+        "id": 25,
         "name": "Water",
         "molecular formula": "H2O",
         "colour": "colourless",
@@ -228,7 +228,7 @@
     },
 
     {
-        "id": 4,
+        "id": 26,
         "name": "Hydrochloric acid",
         "molecular formula": "HCL",
         "colour": "colourless",
@@ -237,7 +237,7 @@
     },
 
     {
-        "id": 5,
+        "id": 27,
         "name": "Bicarbonate",
         "molecular formula": "HCO3-",
         "colour": "red",
@@ -246,7 +246,7 @@
     },
 
     {
-        "id": 6,
+        "id": 28,
         "name": "Ammonium Chloride",
         "molecular formula": "NH4Cl",
         "colour": "white",
@@ -255,7 +255,7 @@
     },
 
     {
-        "id": 7,
+        "id": 29,
         "name": "Sodium Hydroxide",
         "molecular formula": "NAOH",
         "colour": "white",
@@ -264,7 +264,7 @@
     },
 
     {
-        "id": 8,
+        "id": 30,
         "name": "Nitric acid",
         "molecular formula": "HHNO3",
         "colour": "pale yellow",
@@ -273,7 +273,7 @@
     },
 
     {
-        "id":9,
+        "id":31,
         "name": "Potassium chloride",
         "molecular formula": "KCL",
         "colour": "white",
@@ -282,7 +282,7 @@
     },
 
     {
-        "id": 10,
+        "id": 32,
         "name": "Ammonium Nitrate",
         "molecular formula": "NH4NO3",
         "colour": "white",
@@ -290,7 +290,7 @@
         "bolingPoint_inDegreeCelsius": "210"
     },
     {
-        "id": 11,
+        "id": 33,
         "name": "oxygen",
         "molecular formula": "O2",
         "colour": "gas",
@@ -299,7 +299,7 @@
     },
 
     {
-        "id": 12,
+        "id": 34,
         "name": "Potassium Nitrate",
         "molecular formula": "KNO3",
         "colour": "White",
@@ -308,7 +308,7 @@
     },
 
     {
-        "id":13,
+        "id":35,
         "name": "Calcium carbonate",
         "molecular formula": "caco3",
         "colour": "white",
@@ -316,7 +316,7 @@
         "bolingPoint_inDegreeCelsius": "825 "
     },
 {
-        "id":14,
+        "id":36,
         "name": "Lactose",
         "molecular formula": "C12H22O11",
         "colour": "White solid",
@@ -325,7 +325,7 @@
     },
 
  {
-    "id": 15,
+    "id": 37,
     "name": "Nitrous Oxide",
     "molecular formula": "N2O",
     "colour": "colourless",
@@ -333,7 +333,7 @@
     "bolingPoint_inDegreeCelsius": "-88.48"
  },
 {
-    "id": 16,
+    "id": 38,
     "name": "Octane",
     "molecular formula": "C8H18",
     "colour": "colourless",
@@ -342,7 +342,7 @@
  },
 
 {
-     "id":20,
+     "id":39,
         "name": "Methane",
         "molecular formula": "CH4",
         "colour": "colourless",
@@ -350,7 +350,7 @@
         "bolingPoint_inDegreeCelsius": "161.6 °C"
 },
 {
-     "id":21,
+     "id":40,
         "name": "Methyl orange",
         "molecular formula": "C14H14N3NaO3S",
         "colour": "Yellow",
@@ -358,11 +358,35 @@
         "bolingPoint_inDegreeCelsius": "100°C"
 },
 {
-     "id":22,
+     "id":41,
         "name": "Nitric acid",
         "molecular formula": "HNO3",
         "colour": "Yellow",
         "meltingPoint_inDegreeCelsius": "-42°C",
         "bolingPoint_inDegreeCelsius": "83°C"
 },
+{
+     "id":42,
+        "name": "Glucose",
+        "molecular formula": "C₆H₁₂O₆",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": "146°C",
+        "bolingPoint_inDegreeCelsius": "100.51°C"
+},
+{
+     "id":43,
+        "name": "Methanol",
+        "molecular formula": "CH3OH",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "−97.6 °C",
+        "bolingPoint_inDegreeCelsius": "64.7 °C"
+},
+{        
+      "id":44,
+        "name": "Aspirin",
+        "molecular formula": "C9H8O4",
+        "colour": "Colorless to white",
+        "meltingPoint_inDegreeCelsius": "135 °C",
+        "bolingPoint_inDegreeCelsius": "140°C"
+}
 ]
