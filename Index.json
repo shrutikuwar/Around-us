@@ -364,5 +364,21 @@
         "colour": "colorless",
         "meltingPoint_inDegreeCelsius": "146°C",
         "bolingPoint_inDegreeCelsius": "100.51°C"
+},
+{
+     "id":42,
+        "name": "Methanol",
+        "molecular formula": "CH3OH",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "−97.6 °C",
+        "bolingPoint_inDegreeCelsius": "64.7 °C"
+},
+{        
+      "id":43,
+        "name": "Aspirin",
+        "molecular formula": "C9H8O4",
+        "colour": "Colorless to white",
+        "meltingPoint_inDegreeCelsius": "135 °C",
+        "bolingPoint_inDegreeCelsius": "140°C"
 }
 ]
