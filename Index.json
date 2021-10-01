@@ -357,4 +357,12 @@
         "meltingPoint_inDegreeCelsius": "300 °C",
         "bolingPoint_inDegreeCelsius": "100°C"
 },
+{
+     "id":22,
+        "name": "Nitric acid",
+        "molecular formula": "HNO3",
+        "colour": "Yellow",
+        "meltingPoint_inDegreeCelsius": "-42°C",
+        "bolingPoint_inDegreeCelsius": "83°C"
+},
 ]
