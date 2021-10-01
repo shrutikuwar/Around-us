@@ -357,4 +357,13 @@
         "meltingPoint_inDegreeCelsius": "300 °C",
         "bolingPoint_inDegreeCelsius": "100°C"
 },
+{
+        
+      "id":22,
+        "name": "Aspirin",
+        "molecular formula": "C9H8O4",
+        "colour": "Colorless to white",
+        "meltingPoint_inDegreeCelsius": "135 °C",
+        "bolingPoint_inDegreeCelsius": "140°C"
+}
 ]
