@@ -357,4 +357,12 @@
         "meltingPoint_inDegreeCelsius": "300 °C",
         "bolingPoint_inDegreeCelsius": "100°C"
 },
+{
+     "id":22,
+        "name": "Methanol",
+        "molecular formula": "CH3OH",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "−97.6 °C",
+        "bolingPoint_inDegreeCelsius": "64.7 °C"
+}
 ]
