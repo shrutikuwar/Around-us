@@ -359,6 +359,14 @@
 },
 {
      "id":41,
+        "name": "Nitric acid",
+        "molecular formula": "HNO3",
+        "colour": "Yellow",
+        "meltingPoint_inDegreeCelsius": "-42°C",
+        "bolingPoint_inDegreeCelsius": "83°C"
+},
+{
+     "id":42,
         "name": "Glucose",
         "molecular formula": "C₆H₁₂O₆",
         "colour": "colorless",
@@ -366,7 +374,7 @@
         "bolingPoint_inDegreeCelsius": "100.51°C"
 },
 {
-     "id":42,
+     "id":43,
         "name": "Methanol",
         "molecular formula": "CH3OH",
         "colour": "colourless",
@@ -374,7 +382,7 @@
         "bolingPoint_inDegreeCelsius": "64.7 °C"
 },
 {        
-      "id":43,
+      "id":44,
         "name": "Aspirin",
         "molecular formula": "C9H8O4",
         "colour": "Colorless to white",
