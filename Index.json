@@ -332,6 +332,14 @@
     "meltingPoint_inDegreeCelsius": "-90.86",
     "bolingPoint_inDegreeCelsius": "-88.48"
  },
+{
+    "id": 16,
+    "name": "Octane",
+    "molecular formula": "C8H18",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "-57",
+    "bolingPoint_inDegreeCelsius": "1255.55"
+ },
 
 {
      "id":20,
