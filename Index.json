@@ -340,6 +340,13 @@
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "182 °C",
         "bolingPoint_inDegreeCelsius": "161.6 °C"
-}
-
+},
+{
+     "id":21,
+        "name": "Methyl orange",
+        "molecular formula": "C14H14N3NaO3S",
+        "colour": "Yellow",
+        "meltingPoint_inDegreeCelsius": "300 °C",
+        "bolingPoint_inDegreeCelsius": "100°C"
+},
 ]
