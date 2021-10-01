@@ -320,5 +320,13 @@
         "meltingPoint_inDegreeCelsius": "202.8",
         "bolingPoint_inDegreeCelsius": "668.9"
     },
+{
+     "id":15,
+        "name": "Methane",
+        "molecular formula": "CH4",
+        "colour": "colourless",
+        "meltingPoint_inDegreeCelsius": "182 °C",
+        "bolingPoint_inDegreeCelsius": "161.6 °C"
+}
 
 ]
