@@ -33,6 +33,9 @@
         "colour": "colourless",
         "meltingPoint_inDegreeCelsius": "-74",
         "bolingPoint_inDegreeCelsius": "-85.05"
+        
+   
+
     },
 
     {
@@ -320,8 +323,18 @@
         "meltingPoint_inDegreeCelsius": "202.8",
         "bolingPoint_inDegreeCelsius": "668.9"
     },
+
+ {
+    "id": 15,
+    "name": "Nitrous Oxide",
+    "molecular formula": "N2O",
+    "colour": "colourless",
+    "meltingPoint_inDegreeCelsius": "-90.86",
+    "bolingPoint_inDegreeCelsius": "-88.48"
+ },
+
 {
-     "id":15,
+     "id":20,
         "name": "Methane",
         "molecular formula": "CH4",
         "colour": "colourless",
