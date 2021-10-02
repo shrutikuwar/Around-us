@@ -397,4 +397,12 @@
         "meltingPoint_inDegreeCelsius": "-85.05 °C",
         "bolingPoint_inDegreeCelsius": "-85.05 °C"
 }
+{        
+      "id": 46,
+        "name": "Ammonium cyanide",
+        "molecular formula": "CH4N2",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": "36 °C",
+        "bolingPoint_inDegreeCelsius": "31.7 °C"
+}
 ]
