@@ -389,4 +389,12 @@
         "meltingPoint_inDegreeCelsius": "135 °C",
         "bolingPoint_inDegreeCelsius": "140°C"
 }
+{        
+      "id":45,
+        "name": "Hydrochloric acid",
+        "molecular formula": "HCl",
+        "colour": "colorless",
+        "meltingPoint_inDegreeCelsius": "-85.05 °C",
+        "bolingPoint_inDegreeCelsius": "-85.05 °C"
+}
 ]
